@@ -48,4 +48,4 @@ export MLFLOW_TRACKING_URI=http://ec2-3-85-243-246.compute-1.amazonaws.com:5000/
 
 
 
-## Dont try Saaxiib I Deleted all buckets,instances waqti yuu kaa dhumin 
+## Dont try Saaxiib I Deleted all buckets,instances waqti yuu kaa dhumin , just in qofkale tijaabin karo baan usameeyey
